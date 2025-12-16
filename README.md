@@ -1,5 +1,4 @@
 # python-data-projects
-# Python Data Projects
 
 Daily Python learning and practice repository.
 
