@@ -20,17 +20,19 @@ def print_list(items):
         print(item, end=" ")
 
 
-print_list(cities)
-# print()    
+print_list(cities)   
 
 
 #Q :Write a Python function that returns the maximum number from a list without using built in functions.
-# def find_max(nums):
-#     max_num = nums[0]
-#     for n in nums:
-#         if n > max_num:
-#             max_num = n
-#     return max_num
+def find_max(nums):
+    max_num = nums[0]
+    for n in nums:
+        if n > max_num:
+            max_num = n
+    return max_num
 
-print(find_max([3, 9, 1, 7])) 
+print(find_max([3, 9, 1, 7]))
+
+
+
     
