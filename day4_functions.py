@@ -1,15 +1,15 @@
-#Q :Write a function that takes a list as input and prints the length of the list.
-# cities = ["new york", "washington", "berlin", "madrid","barcelona"]
-# nums = [2, 13, 14, 16, 20, 25, 30]
+# Q1:Write a function that takes a list as input and prints the length of the list.
+cities = ["new york", "washington", "berlin", "madrid","barcelona"]
+nums = [2, 13, 14, 16, 20, 25, 30]
 
-# def print_lists(list):
-#     print(len(list))
+def print_lists(list):
+    print(len(list))
 
-# print_lists(cities)
-# print_lists(nums)
+print_lists(cities)
+print_lists(nums)
 
 
-
+#Q2:Write a Python function that takes a list as input and prints all its elements.
 cities = ["new york", "washington", "berlin", "madrid","barcelona"]
 nums = [2, 13, 14, 16, 20, 25, 30]
 
@@ -32,17 +32,5 @@ print_list(cities)
 #             max_num = n
 #     return max_num
 
-# print(find_max([3, 9, 1, 7]))
-
-
-# def check_num(num):
-#     num = int(input("write a number: "))
-#     if num % 2 == 0:
-#         print("even")
-#     else:
-#         print("odd")
-
-#     check_num(num)
-
-
+print(find_max([3, 9, 1, 7])) 
     
