@@ -9,6 +9,7 @@ Daily Python practice projects while learning core concepts.
 - Day 4: Functions
 - Day 5: Recursion
 - Day 6: Files I/O
+- Day 7: Object-oriented programming
 
 ## Goal
 Build strong Python fundamentals for AI / Data Science.
